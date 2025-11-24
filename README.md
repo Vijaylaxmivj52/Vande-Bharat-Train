@@ -25,7 +25,7 @@ The aim of the project is to support **data-driven decision-making** related to 
 - Power BI Desktop – Data cleaning, modeling, dashboard design  
 - Power Query – Transformation and column formatting  
 - DAX – Custom KPIs and calculations  
-- CSV** – Raw dataset (from mentor)
+- CSV – Raw dataset (from mentor)
 
 
  4. Data Source
